@@ -12,3 +12,5 @@
 * [One Page R: A Survival Guide to Data Science with R] (http://onepager.togaware.com/)
 * [The R Project for Statistical Computing] (http://www.r-project.org/)
 * [What is R?] (http://www.revolutionanalytics.com/what-r)
+* [Anomaly Detection R package] (https://github.com/twitter/AnomalyDetection)
+* [Introducing practical and robust anomaly detection in a time series] (https://blog.twitter.com/2015/introducing-practical-and-robust-anomaly-detection-in-a-time-series)
