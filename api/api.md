@@ -14,11 +14,14 @@
 * [A micro web app providing a REST API on top of any relational database, using Silex and Doctrine DBAL] (https://github.com/marmelab/microrest.php)
 * [Microrest.php: Generate A RESTful API On Top Of Any Relational Database, Powered By PHP And Silex] (http://marmelab.com/blog/2015/01/05/introducing-microrest-raml-api-in-silex.html)
 * [FOSRestBundle: Provides various tools to rapidly develop RESTful API's with Symfony2] (https://github.com/FriendsOfSymfony/FOSRestBundle)
+* [Fetch API] (https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+* [This API is so Fetching!] (https://hacks.mozilla.org/2015/03/this-api-is-so-fetching/)
 
 ### Specifications
 
 * [Representational State Transfer (REST) - Roy Fielding's Dissertation](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 * [RAML - RESTful API Modeling Language](http://raml.org/)
+* [Fetch - The Fetch standard defines requests, responses, and the process that binds them; fetching.](https://fetch.spec.whatwg.org/)
 
 ### Security
 
