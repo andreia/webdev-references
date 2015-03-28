@@ -19,9 +19,11 @@
 
 ### Specifications
 
-* [Representational State Transfer (REST) - Roy Fielding's Dissertation](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
-* [RAML - RESTful API Modeling Language](http://raml.org/)
-* [Fetch - The Fetch standard defines requests, responses, and the process that binds them; fetching.](https://fetch.spec.whatwg.org/)
+* [Representational State Transfer (REST): Roy Fielding's Dissertation](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
+* [RAML: RESTful API Modeling Language](http://raml.org/)
+* [Fetch: The Fetch standard defines requests, responses, and the process that binds them; fetching.](https://fetch.spec.whatwg.org/)
+* [JSON-stat: Simple lightweight JSON dissemination format best suited for data visualization, mobile apps or open data initiatives](http://json-stat.org/)
+* [{json:api}: A standard for building APIs in JSON](http://jsonapi.org/)
 
 ### Security
 
@@ -44,10 +46,12 @@
 * [OpenID Connect 1.0](http://openid.net/specs/openid-connect-core-1_0.html)
 * [Authentication Cheat Sheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
 * [REST Security Cheat Sheet](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet)
+* [The Ultimate Guide to Mobile API Security](https://stormpath.com/blog/the-ultimate-guide-to-mobile-api-security/)
 
 ### Tools
 
 * [API Changelog](https://www.apichangelog.com/)
+* [JSONiq: The JSON Query Language](http://www.jsoniq.org/)
 
 ### APIs Explorer
 

@@ -6,8 +6,13 @@
 * [Can I use: provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.](http://caniuse.com/)
 * [cURL.io: share your files from your Terminal](http://curl.io/)
 * [TinyJPG: compress JPEG files with a perfect balance in quality and file size.](https://tinyjpg.com/)
+* [Open Source Libraries: Discover new open source libraries, modules and frameworks and keep track of ones you depend upon](http://libraries.io/)
 
 ### SysAdmin
 
 * [Sysdig: open source, system-level exploration: capture system state and activity from a running Linux instance, then save, filter and analyze.
 Think of it as strace + tcpdump + lsof + awesome sauce.](http://www.sysdig.org/)
+
+### JSON
+
+* [JSONiq: The JSON Query Language](http://www.jsoniq.org/)

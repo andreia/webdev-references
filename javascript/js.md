@@ -20,3 +20,20 @@
 ### Libs
 
 * [is.js: Micro Check Library - Check types, regexps, presence, time and more...](http://arasatasaygin.github.io/is.js)
+* [Moment.js: Parse, validate, manipulate, and display dates in JavaScript](http://momentjs.com/)
+* [Intern: Write tests in JavaScript using any style you like (TDD, BDD, whatever!)](https://theintern.github.io/)
+* [RequireJS: JavaScript file and module loader](http://requirejs.org/)
+
+### Style Guide
+
+* [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript/blob/master/README.md)
+
+### Articles
+
+* [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
+
+### Tools
+
+* [Gulp: Automate and enhance your workflow](http://gulpjs.com/)
+* [Grunt: The JavaScript Task Runner](http://gruntjs.com/)
+* [Bower: A package manager for the web](http://bower.io/)
