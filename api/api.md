@@ -8,6 +8,7 @@
 * [Please. Don't Patch Like An Idiot.] (http://williamdurand.fr/2014/02/14/please-do-not-patch-like-an-idiot/)
 * [Dropbox starts using POST, and why this is poor API design.] (http://evertpot.com/dropbox-post-api)
 * [REST API Design - Resource Modeling] (http://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
+* [REST lesson learned: Avoid 204 responses] (http://blog.ploeh.dk/2013/04/30/rest-lesson-learned-avoid-204-responses/)
 
 ### Development
 
