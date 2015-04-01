@@ -37,3 +37,4 @@
 * [Gulp: Automate and enhance your workflow](http://gulpjs.com/)
 * [Grunt: The JavaScript Task Runner](http://gruntjs.com/)
 * [Bower: A package manager for the web](http://bower.io/)
+* [JSCS: Code style linter for programmatically enforcing your style guide](http://jscs.info/)

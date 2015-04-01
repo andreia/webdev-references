@@ -54,6 +54,10 @@
 * [API Changelog](https://www.apichangelog.com/)
 * [JSONiq: The JSON Query Language](http://www.jsoniq.org/)
 
+### APIs
+
+* [Twilio Lookup: Know the details behind every phone number](https://www.twilio.com/lookup)
+
 ### APIs Explorer
 
 * [Google](https://developers.google.com/apis-explorer)
