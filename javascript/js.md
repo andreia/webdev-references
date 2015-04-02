@@ -23,6 +23,7 @@
 * [Moment.js: Parse, validate, manipulate, and display dates in JavaScript](http://momentjs.com/)
 * [Intern: Write tests in JavaScript using any style you like (TDD, BDD, whatever!)](https://theintern.github.io/)
 * [RequireJS: JavaScript file and module loader](http://requirejs.org/)
+* [Underscore.js: Provides a whole mess of useful functional programming helpers without extending any built-in objects](http://underscorejs.org/)
 
 ### Style Guide
 
