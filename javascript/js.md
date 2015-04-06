@@ -1,21 +1,25 @@
 ## JavaScript
 
-### Variables and Scoping
+### Articles
 
-* [Variables and scoping in ECMAScript 6](http://www.2ality.com/2015/02/es6-scoping.html)
-
-### Performance
-
-* [New JavaScript techniques for rapid page loads](http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html)
-* [Let's Write Fast JavaScript](https://medium.com/the-javascript-collection/lets-write-fast-javascript-2b03c5575d9e)
+* [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
+* [JavaScript for Data Analysis](http://nathanepstein.github.io/jekyll/update/2015/02/26/jsdata.html)
 
 ### Error Handling
 
 * [JavaScript Errors and How to Fix Them](http://davidwalsh.name/fix-javascript-errors)
 
+### Events
+
+* [Javascript Events – Capturing And Bubbling](http://themousepotatowebsite.co.za/javascript-events-capturing-and-bubbling/)
+
 ### Forms
 
 * [Auto-filling Forms with jQuery and the Web Storage API](http://www.sitepoint.com/auto-filling-forms-jquery-web-storage-api/)
+
+### i18n
+
+* [ECMAScript Internationalization API Specification](http://www.ecma-international.org/ecma-402/1.0/)
 
 ### Libs
 
@@ -24,14 +28,16 @@
 * [Intern: Write tests in JavaScript using any style you like (TDD, BDD, whatever!)](https://theintern.github.io/)
 * [RequireJS: JavaScript file and module loader](http://requirejs.org/)
 * [Underscore.js: Provides a whole mess of useful functional programming helpers without extending any built-in objects](http://underscorejs.org/)
+* [datakit: A lightweight framework for data analysis in JavaScript](https://github.com/nathanepstein/datakit)
+
+### Performance
+
+* [New JavaScript techniques for rapid page loads](http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html)
+* [Let's Write Fast JavaScript](https://medium.com/the-javascript-collection/lets-write-fast-javascript-2b03c5575d9e)
 
 ### Style Guide
 
 * [Airbnb JavaScript Style Guide() {](https://github.com/airbnb/javascript/blob/master/README.md)
-
-### Articles
-
-* [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
 
 ### Tools
 
@@ -39,3 +45,7 @@
 * [Grunt: The JavaScript Task Runner](http://gruntjs.com/)
 * [Bower: A package manager for the web](http://bower.io/)
 * [JSCS: Code style linter for programmatically enforcing your style guide](http://jscs.info/)
+
+### Variables and Scoping
+
+* [Variables and scoping in ECMAScript 6](http://www.2ality.com/2015/02/es6-scoping.html)
