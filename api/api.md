@@ -53,6 +53,7 @@
 
 * [API Changelog](https://www.apichangelog.com/)
 * [JSONiq: The JSON Query Language](http://www.jsoniq.org/)
+* [Dash: Instant offline access to 150+ API documentation sets (OSX/iOS only)](https://kapeli.com/dash)
 
 ### APIs
 
