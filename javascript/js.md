@@ -5,6 +5,10 @@
 * [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
 * [JavaScript for Data Analysis](http://nathanepstein.github.io/jekyll/update/2015/02/26/jsdata.html)
 
+### Books
+
+* [Book series diving deep into the core mechanisms of the JS](https://github.com/getify/You-Dont-Know-JS)
+
 ### Error Handling
 
 * [JavaScript Errors and How to Fix Them](http://davidwalsh.name/fix-javascript-errors)
@@ -37,6 +41,7 @@
 
 * [New JavaScript techniques for rapid page loads](http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html)
 * [Let's Write Fast JavaScript](https://medium.com/the-javascript-collection/lets-write-fast-javascript-2b03c5575d9e)
+* [You’re Optimizing The Wrong Things](http://ericleads.com/2013/04/youre-optimizing-the-wrong-things/)
 
 ### Style Guide
 
