@@ -16,6 +16,10 @@
 * [Using Git For What It Is Not Intended](http://thread.gmane.org/gmane.comp.version-control.git/110411)
 * [GITenberg: Free and Open, Collaborative, Trackable and Scriptable digital library](http://gitenberg.github.io/)
 
+### Style
+
+* [Git Style Guide](https://github.com/agis-/git-style-guide)
+
 ### Useful
 
 * [Collection of .gitignore templates](https://github.com/github/gitignore)
