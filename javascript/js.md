@@ -29,6 +29,9 @@
 * [RequireJS: JavaScript file and module loader](http://requirejs.org/)
 * [Underscore.js: Provides a whole mess of useful functional programming helpers without extending any built-in objects](http://underscorejs.org/)
 * [datakit: A lightweight framework for data analysis in JavaScript](https://github.com/nathanepstein/datakit)
+* [RQ: Small JavaScript library for managing asynchronicity in server applications](http://www.rq.crockford.com/)
+* [eSpeak.js: JS-compilation of the eSpeak open source text-to-speech library](http://blog.monotonous.org/2015/04/14/reintroducing-espeak-js)
+* [layzr.js: Small, fast, modern, and dependency-free library for lazy loading](https://github.com/callmecavs/layzr.js)
 
 ### Performance
 
