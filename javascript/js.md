@@ -17,6 +17,10 @@
 
 * [Javascript Events – Capturing And Bubbling](http://themousepotatowebsite.co.za/javascript-events-capturing-and-bubbling/)
 
+### ES6
+
+* [JavaScript Iterators and Generators](http://www.ociweb.com/resources/publications/sett/javascript-iterators-and-generators/)
+
 ### Forms
 
 * [Auto-filling Forms with jQuery and the Web Storage API](http://www.sitepoint.com/auto-filling-forms-jquery-web-storage-api/)
@@ -36,12 +40,14 @@
 * [RQ: Small JavaScript library for managing asynchronicity in server applications](http://www.rq.crockford.com/)
 * [eSpeak.js: JS-compilation of the eSpeak open source text-to-speech library](http://blog.monotonous.org/2015/04/14/reintroducing-espeak-js)
 * [layzr.js: Small, fast, modern, and dependency-free library for lazy loading](https://github.com/callmecavs/layzr.js)
+* [Smartcrop.js: implements an algorithm to find good crops for images](https://github.com/jwagner/smartcrop.js/)
 
 ### Performance
 
 * [New JavaScript techniques for rapid page loads](http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html)
 * [Let's Write Fast JavaScript](https://medium.com/the-javascript-collection/lets-write-fast-javascript-2b03c5575d9e)
 * [You’re Optimizing The Wrong Things](http://ericleads.com/2013/04/youre-optimizing-the-wrong-things/)
+* [Writing Fast, Memory-Efficient JavaScript](http://www.smashingmagazine.com/2012/11/writing-fast-memory-efficient-javascript)
 
 ### Style Guide
 
