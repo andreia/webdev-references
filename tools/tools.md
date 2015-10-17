@@ -8,6 +8,7 @@
 * [TinyJPG: compress JPEG files with a perfect balance in quality and file size](https://tinyjpg.com/)
 * [Open Source Libraries: Discover new open source libraries, modules and frameworks and keep track of ones you depend upon](http://libraries.io/)
 * [Regulex: JavaScript Regular Expression Visualizer](http://jex.im/regulex)
+* [glot.io: open source pastebin with runnable snippets and API](https://glot.io/)
 
 #### Security
 
