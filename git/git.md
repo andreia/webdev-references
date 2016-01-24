@@ -1,5 +1,6 @@
 ## Git
 
+* [Reset Demystified](http://git-scm.com/2011/07/11/reset.html)
 * [A Hacker's Guide to Git](http://wildlyinaccurate.com/a-hackers-guide-to-git/)
 * [Visualizing Git Concepts with D3](http://www.wei-wang.com/ExplainGitWithD3/)
 * [Git Reference](http://gitref.org/)
