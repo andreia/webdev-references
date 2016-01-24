@@ -23,6 +23,7 @@
 
 ### ES6
 
+* [ES2015 cheatsheet containing tips, tricks, best practices and code snippets](https://github.com/DrkSephy/es6-cheatsheet)
 * [JavaScript Iterators and Generators](http://www.ociweb.com/resources/publications/sett/javascript-iterators-and-generators/)
 
 ### Forms
