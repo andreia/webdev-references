@@ -9,6 +9,10 @@
 
 * [Book series diving deep into the core mechanisms of the JS](https://github.com/getify/You-Dont-Know-JS)
 
+### Database (client-side) 
+
+* [MarsDB: lightweight client-side database with MongoDB query syntax, written on ES6](https://github.com/c58/marsdb)
+
 ### Error Handling
 
 * [JavaScript Errors and How to Fix Them](http://davidwalsh.name/fix-javascript-errors)
@@ -44,6 +48,7 @@
 
 ### Performance
 
+* [JavaScript At Scale - Achieving High Velocity](https://labs.mlssoccer.com/javascript-at-scale-achieving-high-velocity-160c7d78af03)
 * [New JavaScript techniques for rapid page loads](http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html)
 * [Let's Write Fast JavaScript](https://medium.com/the-javascript-collection/lets-write-fast-javascript-2b03c5575d9e)
 * [You’re Optimizing The Wrong Things](http://ericleads.com/2013/04/youre-optimizing-the-wrong-things/)
