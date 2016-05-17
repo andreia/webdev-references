@@ -14,3 +14,7 @@
 * [What is R?] (http://www.revolutionanalytics.com/what-r)
 * [Anomaly Detection R package] (https://github.com/twitter/AnomalyDetection)
 * [Introducing practical and robust anomaly detection in a time series] (https://blog.twitter.com/2015/introducing-practical-and-robust-anomaly-detection-in-a-time-series)
+
+## Tools
+
+* [Caravel: Airbnb's data exploration platform](https://medium.com/airbnb-engineering/caravel-airbnb-s-data-exploration-platform-15a72aa610e5)
