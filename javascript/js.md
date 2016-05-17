@@ -9,6 +9,10 @@
 
 * [Book series diving deep into the core mechanisms of the JS](https://github.com/getify/You-Dont-Know-JS)
 
+### Codemods
+
+* [Turbocharged JavaScript refactoring with codemods](https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9)
+
 ### Database (client-side) 
 
 * [MarsDB: lightweight client-side database with MongoDB query syntax, written on ES6](https://github.com/c58/marsdb)
