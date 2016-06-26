@@ -69,6 +69,7 @@
 * [Grunt: The JavaScript Task Runner](http://gruntjs.com/)
 * [Bower: A package manager for the web](http://bower.io/)
 * [JSCS: Code style linter for programmatically enforcing your style guide](http://jscs.info/)
+* [lint-staged: Make linting great again!](https://medium.com/@okonetchnikov/make-linting-great-again-f3890e1ad6b8#.mthre7lzp)
 
 ### Variables and Scoping
 
