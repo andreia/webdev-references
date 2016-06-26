@@ -7,6 +7,10 @@
 * [Build Your own Simplified AngularJS in 200 Lines of JavaScript](http://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
 * [AngularJS and $scope.$apply() best practices](https://medium.com/@KamilLelonek/angularjs-and-scope-apply-best-practices-d07353175024)
 
+### IoT
+
+* [Building Simon with Angular2-IoT Part 2](https://medium.com/@urish/building-simon-with-angular2-iot-part-2-ee3a270747b5#.c45rnnwd9)
+
 ### Security
 
 * [Cookies vs Tokens. Getting auth right with Angular.JS](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/)
