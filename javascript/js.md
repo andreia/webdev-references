@@ -5,6 +5,10 @@
 * [The JavaScript World Domination](https://medium.com/@slsoftworks/javascript-world-domination-af9ca2ee5070)
 * [JavaScript for Data Analysis](http://nathanepstein.github.io/jekyll/update/2015/02/26/jsdata.html)
 
+### Best Practices
+
+* [Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+
 ### Books
 
 * [Book series diving deep into the core mechanisms of the JS](https://github.com/getify/You-Dont-Know-JS)
